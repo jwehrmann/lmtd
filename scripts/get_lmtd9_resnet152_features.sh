@@ -1,0 +1,1 @@
+wget http://lsa.pucrs.br/jonatas/lmtd/features/lmtd9_resnet152.pickle --directory-prefix $LMTD_PATH/features/
